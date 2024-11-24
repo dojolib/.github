@@ -97,12 +97,6 @@ The server is organized into several categories to help you navigate:
 
 ---
 
-### **10. Archive**
-- **#incident-report**: Document lessons learned from past incidents.
-- **#challenges-roadblocks**: A space for troubleshooting and problem-solving.
-
----
-
 ## 🚀 **How to Get Started**
 1. **Join the Server:** Click here to join: [DevOps Dojo Discord](https://discord.gg/KT58rBP7EQ).
 2. **Introduce Yourself:** Say hi in the `#introductions` channel!
